@@ -1,0 +1,7 @@
+"D:\softwaresInstalling\mysql\bin\mysql.exe" -u root -padmin --default-character-set=utf8 tmall < D:\BaiduNetdiskDownload\how2j_cn_java\tmall_altogether\tmall.sql
+
+abcdefghijklmnopqrstuvwxyz
+zyxwvutsrqponmlkjihgfedcba
+
+ni hao,git
+
